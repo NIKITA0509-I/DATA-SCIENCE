@@ -1,2 +1,2 @@
-# LOGISTIC-REGRESSION
+# DATA SCIENCE 
 machine learning 
